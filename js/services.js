@@ -1,6 +1,7 @@
 // work as post man
 const url = "https://ahmed-qm-shersheer123.herokuapp.com/api/score"
 
+
 async function getScores(){
     // GET request by default
   const data = await fetch(url)

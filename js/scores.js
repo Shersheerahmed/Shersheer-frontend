@@ -12,4 +12,3 @@ getScores().then((data)=>{
     }
     document.getElementById("displayScores").innerHTML = display
 })
-
